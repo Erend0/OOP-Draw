@@ -1,0 +1,11 @@
+C:\Users\eren_\Desktop\OOPDraw2\bin\Debug\OOPDraw2.exe.config
+C:\Users\eren_\Desktop\OOPDraw2\bin\Debug\OOPDraw2.exe
+C:\Users\eren_\Desktop\OOPDraw2\bin\Debug\OOPDraw2.pdb
+C:\Users\eren_\Desktop\OOPDraw2\obj\Debug\OOPDraw2.csproj.AssemblyReference.cache
+C:\Users\eren_\Desktop\OOPDraw2\obj\Debug\OOPDraw2.csproj.SuggestedBindingRedirects.cache
+C:\Users\eren_\Desktop\OOPDraw2\obj\Debug\OOPDraw2.Form1.resources
+C:\Users\eren_\Desktop\OOPDraw2\obj\Debug\OOPDraw2.Properties.Resources.resources
+C:\Users\eren_\Desktop\OOPDraw2\obj\Debug\OOPDraw2.csproj.GenerateResource.cache
+C:\Users\eren_\Desktop\OOPDraw2\obj\Debug\OOPDraw2.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\OOPDraw2\obj\Debug\OOPDraw2.exe
+C:\Users\eren_\Desktop\OOPDraw2\obj\Debug\OOPDraw2.pdb
